@@ -3,7 +3,7 @@
 Welcome to my projects.
 
 ## Azure Devops Tools
-https://marketplace.visualstudio.com/search?term=jungerius&target=AzureDevOps&category=All%20categories&sortBy=Relevance
+[Releases in the marketplace](https://marketplace.visualstudio.com/search?term=jungerius&target=AzureDevOps&category=All%20categories&sortBy=Relevance)
 
 ## KODI Repository
-https://chrisism.github.io/
+(https://chrisism.github.io/)
