@@ -6,4 +6,4 @@ Welcome to my projects.
 [Releases in the marketplace](https://marketplace.visualstudio.com/search?term=jungerius&target=AzureDevOps&category=All%20categories&sortBy=Relevance)
 
 ## KODI Repository
-[https://chrisism.github.io/repository.chrisism/](https://chrisism.github.io/repository.chrisism/)
+[https://github.com/chrisism/repository.chrisism](https://github.com/chrisism/repository.chrisism)
